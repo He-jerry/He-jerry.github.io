@@ -35,7 +35,7 @@ public code:
 The sample result of these three networks are shown in below:
 
 
-<img alt="https://github.com/He-jerry/He-jerry.github.io/blob/main/Xenoblade2/teaser%20video/result.gif" src="https://github.com/He-jerry/He-jerry.github.io/blob/main/Xenoblade2/teaser%20video/result.gif" width="384" height="">
+<img alt="https://github.com/He-jerry/He-jerry.github.io/raw/main/Xenoblade2/teaser%20video/result.gif" src="https://github.com/He-jerry/He-jerry.github.io/raw/main/Xenoblade2/teaser%20video/result.gif" width="384" height="">
 
 
 
