@@ -4,7 +4,7 @@ I am the Msc Student of City University of Hong Kong. My interests include image
 
 Currently, I work on a small interesting project that transferring the detection models in natural scenes to the animation scenes(Such as the games).
 
-In the recent time, the animation scene I have tried is the game scene *Xenoblade2* which is developed by *Nintendo*. Below is the bried introduction of the small project.
+In the recent time, the animation scene I have tried is the game scene *Xenoblade2* which is developed by *Nintendo*. Below is the brief introduction of the small project.
 
 ### Detection in animation scenes(*Xenoblade2* by Nintendo in current)
 
