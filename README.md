@@ -14,6 +14,23 @@ Dataset Samples:
 
 <img alt="https://github.com/He-jerry/He-jerry.github.io/raw/main/Xenoblade2/teaser%20image/2021-03-22_21-47-43.mp4_16.jpg" src="https://github.com/He-jerry/He-jerry.github.io/raw/main/Xenoblade2/teaser%20image/2021-03-22_21-47-43.mp4_16.jpg" width="256" height=""><img alt="https://github.com/He-jerry/He-jerry.github.io/raw/main/Xenoblade2/teaser%20image/16.jpg" src="https://github.com/He-jerry/He-jerry.github.io/raw/main/Xenoblade2/teaser%20image/16.jpg" width="256" height="">
 
+Currently, I have tested the below networks: Yolov3, Yolov4 and RetinaNet.
+
+Yolov3:**You Only Look Once: Unified, Real-Time Object Detection, YOLOv3: An Incremental Improvement**
+
+Public code:
+[https://github.com/ultralytics/yolov3](https://github.com/ultralytics/yolov3)
+
+Yolov4:**YOLOv4: Optimal Speed and Accuracy of Object Detection**
+
+public code:
+[https://github.com/Tianxiaomo/pytorch-YOLOv4](https://github.com/Tianxiaomo/pytorch-YOLOv4)
+
+RetinaNet:**Focal Loss for Dense Object Detection**
+
+public code:
+[https://github.com/NVIDIA/retinanet-examples](https://github.com/NVIDIA/retinanet-examples)
+
 
 ### Re-imlementation of some papers
 
