@@ -69,6 +69,29 @@ My unofficial implementation: [https://github.com/He-jerry/PatchGAN](https://git
 
 
 
+**Platform Transfer Implementation:**
+
+**CENet: Context encoder network for 2D medical image segmentation,Zaiwang Gu, Jun Cheng, Huazhu Fu, Kang Zhou, Huaying Hao, Yitian Zhao, Tianyang Zhang, Shenghua Gao, Jiang Liu**
+
+[https://arxiv.org/abs/1903.02740](https://arxiv.org/abs/1903.02740)
+
+[https://github.com/He-jerry/CENet-Tensorflow](https://github.com/He-jerry/CENet-Tensorflow)
+
+**U2-Net: Going Deeper with Nested U-Structure for Salient Object Detection,Xuebin Qin, Zichen Zhang, Chenyang Huang, Masood Dehghan, Osmar R. Zaiane and Martin Jagersand**
+
+[https://arxiv.org/pdf/2005.09007.pdf](https://arxiv.org/pdf/2005.09007.pdf)
+
+official implementation(Pytorch):[https://github.com/xuebinqin/U-2-Net](https://github.com/xuebinqin/U-2-Net)
+
+My unofficial implementation(Tensorflow):[https://github.com/He-jerry/U2Net-Tensorflow](https://github.com/He-jerry/U2Net-Tensorflow)
+
+**F3Net: Fusion, Feedback and Focus for Salient Object Detection,Jun Wei, Shuhui Wang, Qingming Huang**
+
+[https://arxiv.org/abs/1911.11445](https://arxiv.org/abs/1911.11445)
+
+official implementation(Pytorch):[https://github.com/weijun88/F3Net](https://github.com/weijun88/F3Net)
+
+My unofficial implementation(Tensorflow):[https://github.com/He-jerry/F3Net-Tensorflow](https://github.com/He-jerry/F3Net-Tensorflow)
 
 
 
@@ -78,7 +101,7 @@ My unofficial implementation: [https://github.com/He-jerry/PatchGAN](https://git
 
 **ConvPoint: Generalizing discrete convolutions for unstructured point clouds**
 
-**SIS3D: Joint Semantic-Instance Segmentation of 3D Point Clouds with
+**JSIS3D: Joint Semantic-Instance Segmentation of 3D Point Clouds with
 Multi-Task Pointwise Networks and Multi-Value Conditional Random Fields**
 
 [https://github.com/He-jerry/3D-project](https://github.com/He-jerry/3D-project)
