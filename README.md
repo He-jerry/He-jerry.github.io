@@ -15,35 +15,35 @@ In the recent time, the animation scene I have tried is the game scene *Xenoblad
 
 **CRRN: Multi-Scale Guided Concurrent Reflection Removal Network, Renjie Wan, Boxin Shi, Ling-Yu Duan, Ah-Hwee Tan, Alex C. Kot**
 
-https://arxiv.org/abs/1805.11802
+[https://arxiv.org/abs/1805.11802](https://arxiv.org/abs/1805.11802)
 
-https://github.com/He-jerry/CRRN
+[https://github.com/He-jerry/CRRN](https://github.com/He-jerry/CRRN)
 
 **Learning to Jointly Generate and Separate Reflections, Daiqian Ma Renjie Wan Boxin Shi Alex C. Kot Ling-Yu Duan**
 
-https://openaccess.thecvf.com/content_ICCV_2019/papers/Ma_Learning_to_Jointly_Generate_and_Separate_Reflections_ICCV_2019_paper.pdf
+[https://openaccess.thecvf.com/content_ICCV_2019/papers/Ma_Learning_to_Jointly_Generate_and_Separate_Reflections_ICCV_2019_paper.pdf](https://openaccess.thecvf.com/content_ICCV_2019/papers/Ma_Learning_to_Jointly_Generate_and_Separate_Reflections_ICCV_2019_paper.pdf)
 
-https://github.com/He-jerry/Joint
+[https://github.com/He-jerry/Joint](https://github.com/He-jerry/Joint)
 
-**Deep Adversarial Decomposition: A Unified Framework for Separating Superimposed Images, CVPR2020,Zhengxia Zou, Sen Lei, Tianyang Shi, Zhenwei Shi, Jieping Ye **
+**Deep Adversarial Decomposition: A Unified Framework for Separating Superimposed Images, Zhengxia Zou, Sen Lei, Tianyang Shi, Zhenwei Shi, Jieping Ye**
 
-https://openaccess.thecvf.com/content_CVPR_2020/html/Zou_Deep_Adversarial_Decomposition_A_Unified_Framework_for_Separating_Superimposed_Images_CVPR_2020_paper.html
+[https://openaccess.thecvf.com/content_CVPR_2020/html/Zou_Deep_Adversarial_Decomposition_A_Unified_Framework_for_Separating_Superimposed_Images_CVPR_2020_paper.html](https://openaccess.thecvf.com/content_CVPR_2020/html/Zou_Deep_Adversarial_Decomposition_A_Unified_Framework_for_Separating_Superimposed_Images_CVPR_2020_paper.html)
 
-Official Implementation(Updated Nov 2020, thanks the official code for authors to help me correct some mistakes in the implementation of the code): https://github.com/jiupinjia/Deep-adversarial-decomposition
+Official Implementation(Updated Nov 2020, thanks the official code for authors to help me correct some mistakes in the implementation of the code): [https://github.com/jiupinjia/Deep-adversarial-decomposition](https://github.com/jiupinjia/Deep-adversarial-decomposition)
 
-My unofficial implementation: https://github.com/He-jerry/PatchGAN   (Please refer the official implementation first, because my implementation also has some mistakes in training.)
+My unofficial implementation: [https://github.com/He-jerry/PatchGAN](https://github.com/He-jerry/PatchGAN)   (Please refer the official implementation first, because my implementation also has some mistakes in training.)
 
 **Stacked Conditional Generative Adversarial Networks for Jointly Learning Shadow Detection and Shadow Removal, Jifeng Wang, Xiang Li,Jian Yang**
 
-https://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Stacked_Conditional_Generative_CVPR_2018_paper.pdf
+[https://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Stacked_Conditional_Generative_CVPR_2018_paper.pdf](https://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Stacked_Conditional_Generative_CVPR_2018_paper.pdf)
 
-https://github.com/He-jerry/ST-CGAN
+[https://github.com/He-jerry/ST-CGAN](https://github.com/He-jerry/ST-CGAN)
 
 **Residual Squeeze-and-Excitation Network for Fast Image Deraining, Jun Fu, Jianfeng Xu, Kazuyuki Tasaka, Zhibo Chen**
 
-https://arxiv.org/abs/2006.00757
+[https://arxiv.org/abs/2006.00757](https://arxiv.org/abs/2006.00757)
 
-https://github.com/He-jerry/Residual-SE-Network
+[https://github.com/He-jerry/Residual-SE-Network](https://github.com/He-jerry/Residual-SE-Network)
 
 
 
@@ -55,11 +55,11 @@ https://github.com/He-jerry/Residual-SE-Network
 
 **Deeply Supervised Salient Object Detection with Short Connections, Qibin Hou, Ming-Ming Cheng, Xiao-Wei Hu, Ali Borji, Zhuowen Tu, Philip Torr**
 
-https://arxiv.org/abs/1611.04849
+[**ResNeSt**](https://arxiv.org/abs/1611.04849)
 
-https://openaccess.thecvf.com/content_cvpr_2017/papers/Hou_Deeply_Supervised_Salient_CVPR_2017_paper.pdf
+[**DSSNet**](https://openaccess.thecvf.com/content_cvpr_2017/papers/Hou_Deeply_Supervised_Salient_CVPR_2017_paper.pdf)
 
-https://github.com/He-jerry/DSSNet
+[https://github.com/He-jerry/DSSNet](https://github.com/He-jerry/DSSNet)
 
 
 
@@ -75,7 +75,7 @@ https://github.com/He-jerry/DSSNet
 **SIS3D: Joint Semantic-Instance Segmentation of 3D Point Clouds with
 Multi-Task Pointwise Networks and Multi-Value Conditional Random Fields**
 
-https://github.com/He-jerry/3D-project
+[https://github.com/He-jerry/3D-project](https://github.com/He-jerry/3D-project)
 
 
 ### Support or Contact
