@@ -8,6 +8,12 @@ In the recent time, the animation scene I have tried is the game scene *Xenoblad
 
 ### Detection in animation scenes(*Xenoblade2* by Nintendo in current)
 
+Dataset Samples:
+
+![Samples](https://github.com/He-jerry/He-jerry.github.io/raw/main/Xenoblade2/teaser%20image/2021-03-22_21-47-43.mp4_9.jpg){:height="50%" width="50%"}
+
+
+
 
 ### Re-imlementation of some papers
 
