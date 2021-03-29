@@ -19,7 +19,7 @@ In the recent time, the animation scene I have tried is the game scene *Xenoblad
 
 [https://github.com/He-jerry/CRRN](https://github.com/He-jerry/CRRN)
 
-**Learning to Jointly Generate and Separate Reflections, Daiqian Ma Renjie Wan Boxin Shi Alex C. Kot Ling-Yu Duan**
+**Learning to Jointly Generate and Separate Reflections, Daiqian Ma, Renjie Wan, Boxin Shi, Alex C. Kot, Ling-Yu Duan**
 
 [https://openaccess.thecvf.com/content_ICCV_2019/papers/Ma_Learning_to_Jointly_Generate_and_Separate_Reflections_ICCV_2019_paper.pdf](https://openaccess.thecvf.com/content_ICCV_2019/papers/Ma_Learning_to_Jointly_Generate_and_Separate_Reflections_ICCV_2019_paper.pdf)
 
