@@ -4,9 +4,32 @@ I am the Msc Student of City University of Hong Kong. My interests include image
 
 Currently, I work on a small interesting project that transferring the detection models in natural scenes to the animation scenes(Such as the games).
 
-In the recent time, the animation scene I have tried is the game scene *Xenoblade2* which is developed by *Nintendo*. Below is the bried introduction of the small project.
+In the recent time, the animation scene I have tried is the game scene *Xenoblade2* which is developed by *Nintendo*. Below is the brief introduction of the small project.
 
 ### Detection in animation scenes(*Xenoblade2* by Nintendo in current)
+
+Dataset Samples:
+
+<img alt="https://github.com/He-jerry/He-jerry.github.io/raw/main/Xenoblade2/teaser%20image/2021-03-22_21-47-43.mp4_9.jpg" src="https://github.com/He-jerry/He-jerry.github.io/raw/main/Xenoblade2/teaser%20image/2021-03-22_21-47-43.mp4_9.jpg" width="256" height=""><img alt="https://github.com/He-jerry/He-jerry.github.io/raw/main/Xenoblade2/teaser%20image/9.jpg" src="https://github.com/He-jerry/He-jerry.github.io/raw/main/Xenoblade2/teaser%20image/9.jpg" width="256" height="">
+
+<img alt="https://github.com/He-jerry/He-jerry.github.io/raw/main/Xenoblade2/teaser%20image/2021-03-22_21-47-43.mp4_16.jpg" src="https://github.com/He-jerry/He-jerry.github.io/raw/main/Xenoblade2/teaser%20image/2021-03-22_21-47-43.mp4_16.jpg" width="256" height=""><img alt="https://github.com/He-jerry/He-jerry.github.io/raw/main/Xenoblade2/teaser%20image/16.jpg" src="https://github.com/He-jerry/He-jerry.github.io/raw/main/Xenoblade2/teaser%20image/16.jpg" width="256" height="">
+
+Currently, I have tested the below networks: Yolov3, Yolov4 and RetinaNet.
+
+Yolov3:**You Only Look Once: Unified, Real-Time Object Detection, YOLOv3: An Incremental Improvement**
+
+Public code:
+[https://github.com/ultralytics/yolov3](https://github.com/ultralytics/yolov3)
+
+Yolov4:**YOLOv4: Optimal Speed and Accuracy of Object Detection**
+
+public code:
+[https://github.com/Tianxiaomo/pytorch-YOLOv4](https://github.com/Tianxiaomo/pytorch-YOLOv4)
+
+RetinaNet:**Focal Loss for Dense Object Detection**
+
+public code:
+[https://github.com/NVIDIA/retinanet-examples](https://github.com/NVIDIA/retinanet-examples)
 
 
 ### Re-imlementation of some papers
@@ -63,6 +86,29 @@ My unofficial implementation: [https://github.com/He-jerry/PatchGAN](https://git
 
 
 
+**Platform Transfer Implementation:**
+
+**CENet: Context encoder network for 2D medical image segmentation,Zaiwang Gu, Jun Cheng, Huazhu Fu, Kang Zhou, Huaying Hao, Yitian Zhao, Tianyang Zhang, Shenghua Gao, Jiang Liu**
+
+[https://arxiv.org/abs/1903.02740](https://arxiv.org/abs/1903.02740)
+
+[https://github.com/He-jerry/CENet-Tensorflow](https://github.com/He-jerry/CENet-Tensorflow)
+
+**U2-Net: Going Deeper with Nested U-Structure for Salient Object Detection,Xuebin Qin, Zichen Zhang, Chenyang Huang, Masood Dehghan, Osmar R. Zaiane and Martin Jagersand**
+
+[https://arxiv.org/pdf/2005.09007.pdf](https://arxiv.org/pdf/2005.09007.pdf)
+
+official implementation(Pytorch):[https://github.com/xuebinqin/U-2-Net](https://github.com/xuebinqin/U-2-Net)
+
+My unofficial implementation(Tensorflow):[https://github.com/He-jerry/U2Net-Tensorflow](https://github.com/He-jerry/U2Net-Tensorflow)
+
+**F3Net: Fusion, Feedback and Focus for Salient Object Detection,Jun Wei, Shuhui Wang, Qingming Huang**
+
+[https://arxiv.org/abs/1911.11445](https://arxiv.org/abs/1911.11445)
+
+official implementation(Pytorch):[https://github.com/weijun88/F3Net](https://github.com/weijun88/F3Net)
+
+My unofficial implementation(Tensorflow):[https://github.com/He-jerry/F3Net-Tensorflow](https://github.com/He-jerry/F3Net-Tensorflow)
 
 
 
@@ -72,7 +118,7 @@ My unofficial implementation: [https://github.com/He-jerry/PatchGAN](https://git
 
 **ConvPoint: Generalizing discrete convolutions for unstructured point clouds**
 
-**SIS3D: Joint Semantic-Instance Segmentation of 3D Point Clouds with
+**JSIS3D: Joint Semantic-Instance Segmentation of 3D Point Clouds with
 Multi-Task Pointwise Networks and Multi-Value Conditional Random Fields**
 
 [https://github.com/He-jerry/3D-project](https://github.com/He-jerry/3D-project)
