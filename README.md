@@ -32,6 +32,9 @@ public code:
 [https://github.com/NVIDIA/retinanet-examples](https://github.com/NVIDIA/retinanet-examples)
 
 
+The sample result of these three networks are shown in below:
+
+
 ### Re-imlementation of some papers
 
 **Re-implementation of image restoration:**
