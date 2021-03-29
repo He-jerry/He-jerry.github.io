@@ -34,6 +34,11 @@ public code:
 
 The sample result of these three networks are shown in below:
 
+<video id="video" controls="" preload="none" poster="https://github.com/He-jerry/He-jerry.github.io/raw/main/Xenoblade2/retinanet/2021-03-22_21-47-43.mp4_9.jpg">
+      <source id="mp4" src="https://github.com/He-jerry/He-jerry.github.io/raw/main/Xenoblade2/teaser%20video/2021-03-22_21-47-43%202.mp4" type="video/mp4">
+      <p>Samples.</p>
+</video>
+
 
 ### Re-imlementation of some papers
 
