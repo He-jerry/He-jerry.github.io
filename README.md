@@ -14,6 +14,10 @@ Dataset Samples:
 
 <img alt="https://github.com/He-jerry/He-jerry.github.io/raw/main/Xenoblade2/teaser%20image/2021-03-22_21-47-43.mp4_16.jpg" src="https://github.com/He-jerry/He-jerry.github.io/raw/main/Xenoblade2/teaser%20image/2021-03-22_21-47-43.mp4_16.jpg" width="256" height=""><img alt="https://github.com/He-jerry/He-jerry.github.io/raw/main/Xenoblade2/teaser%20image/16.jpg" src="https://github.com/He-jerry/He-jerry.github.io/raw/main/Xenoblade2/teaser%20image/16.jpg" width="256" height="">
 
+The object sample(Nopon) is shown:
+
+<img alt="https://github.com/He-jerry/He-jerry.github.io/raw/main/Xenoblade2/nopon/nopong%20sample.jpg" src="https://github.com/He-jerry/He-jerry.github.io/raw/main/Xenoblade2/nopon/nopong%20sample.jpg" width="256" height="">
+
 Currently, I have tested the below networks: Yolov3, Yolov4 and RetinaNet.
 
 Yolov3:**You Only Look Once: Unified, Real-Time Object Detection, YOLOv3: An Incremental Improvement**
@@ -32,10 +36,17 @@ public code:
 [https://github.com/NVIDIA/retinanet-examples](https://github.com/NVIDIA/retinanet-examples)
 
 
-The sample result of these three networks are shown in below:
+The sample result of the Yolov3(Current Best) are shown in below:
 
 
 <img alt="https://github.com/He-jerry/He-jerry.github.io/raw/main/Xenoblade2/teaser%20video/result.gif" src="https://github.com/He-jerry/He-jerry.github.io/raw/main/Xenoblade2/teaser%20video/result.gif" width="384" height="">
+
+
+However, the problem is that, although the shape/texture of the object is similar, the difference of the backgrounud will cause the different detection result.
+
+For example, I test another sample video in different scene(Snow scene):
+
+
 
 
 
