@@ -113,7 +113,9 @@ My implementation: [https://github.com/He-jerry/ST-CGAN](https://github.com/He-j
 
 [https://arxiv.org/abs/1903.02740](https://arxiv.org/abs/1903.02740)
 
-[https://github.com/He-jerry/CENet-Tensorflow](https://github.com/He-jerry/CENet-Tensorflow)
+Reference implementation(Pytorch): [https://github.com/Guzaiwang/CE-Net](https://github.com/Guzaiwang/CE-Net)
+
+My implementation(Tensorflow):[https://github.com/He-jerry/CENet-Tensorflow](https://github.com/He-jerry/CENet-Tensorflow)
 
 **U2-Net: Going Deeper with Nested U-Structure for Salient Object Detection,Xuebin Qin, Zichen Zhang, Chenyang Huang, Masood Dehghan, Osmar R. Zaiane and Martin Jagersand**
 
