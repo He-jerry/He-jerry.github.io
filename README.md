@@ -151,6 +151,13 @@ PISA
 [Monster Hunter Stories2: Wings of Ruin Sample Dataset]()
 
 
+![image](https://github.com/He-jerry/Xenoblade2-Detection/blob/main/teaser/50.jpg)
+
+![image](https://github.com/He-jerry/Xenoblade2-Detection/blob/main/teaser/519.jpg)
+
+![image](https://github.com/He-jerry/Xenoblade2-Detection/blob/main/teaser/557.jpg)
+
+
 **Emotion changed from one of the Cartoon Character to another Cartoon Character with few data**
 
 [Emotion small dataset]()
