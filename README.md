@@ -107,14 +107,21 @@ My unofficial implementation(Tensorflow):[https://github.com/He-jerry/F3Net-Tens
 
 
 **MikuMikuDance by Deep Learning Advanced version--From animation video to 3D model**
+
 [My Github Project Address](https://github.com/He-jerry/MikuMikuDance_Start-from-animation-video)
 
 
 
 **Object Detection when embedded in the Video Games**
 
+[Xenoblade2 Sample Dataset]()
+
+[Monster Hunter Stories2: Wings of Ruin Sample Dataset]()
+
 
 **Emotion changed from one of the Cartoon Character to another Cartoon Character with few data**
+
+[Emotion small dataset]()
 
 
 **Sketch from the RGB emotion image**
