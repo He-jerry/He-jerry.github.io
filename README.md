@@ -140,7 +140,9 @@ PISA
 
 [My Github Project Address](https://github.com/He-jerry/MikuMikuDance_Start-from-animation-video)
 
+![image](https://github.com/He-jerry/MikuMikuDance_Start-from-animation-video/blob/main/video_teaser/1_1.gif)
 
+![image](https://github.com/He-jerry/MikuMikuDance_Start-from-animation-video/blob/main/video_teaser/1_3.gif)
 
 **Object Detection when embedded in the Video Games**
 
