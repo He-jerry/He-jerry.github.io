@@ -1,10 +1,12 @@
 ## Jerry He(何泽邦)'s homepage
 
-I am the Msc Student of City University of Hong Kong. My interests include image restoration, binary-class segmentation and so on.
+I receive my Bsc scholar from CSU(Central South University) and Msc scholar from City University of Hong Kong.
 
-Currently, I work on a small interesting project that transferring the detection models in natural scenes to the animation scenes(Such as the games).
+In the former stage, my research interests including salient object detection, image layer separation, and recently my interests change to Object Detection and Segmentation.
 
-In the recent time, the animation scene I have tried is the game scene *Xenoblade2* which is developed by *Nintendo*. Below is the brief introduction of the small project.
+### Publication Currently
+
+Lin, Jiaying, Zebang He and Rynson W. H. Lau. “Rich Context Aggregation with Reflection Prior for Glass Surface Detection.” . CVPR2021
 
 ### Detection in animation scenes(*Xenoblade2* by Nintendo in current)
 
