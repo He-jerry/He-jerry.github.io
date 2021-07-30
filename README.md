@@ -134,10 +134,6 @@ PISA
 
 **Object Detection when embedded in the Video Games**
 
-[Xenoblade2 Sample Dataset]()
-
-[Monster Hunter Stories2: Wings of Ruin Sample Dataset]()
-
 
 ![image](https://github.com/He-jerry/Xenoblade2-Detection/raw/main/teaser/50.jpg)
 
@@ -147,8 +143,6 @@ PISA
 
 
 **Emotion changed from one of the Cartoon Character to another Cartoon Character with few data**
-
-[Emotion small dataset]()
 
 Character A     To         Character  B
 
@@ -166,8 +160,6 @@ Character B     To         Character A
 
 
 **Sketch from the RGB emotion image**
-
-[Result]()
 
 ![image](https://github.com/He-jerry/Emotion_change/raw/main/original/8c4ecf43c895bc9ed23eea9274328ba6cf24481e.png)![image](https://github.com/He-jerry/Emotion_change/raw/main/line.gif)
 
