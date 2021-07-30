@@ -100,7 +100,7 @@ My unofficial implementation(Tensorflow):[https://github.com/He-jerry/F3Net-Tens
 ### Some famous Paper Presentation Video Subs Added by myself and my personal thinking
 
 
-
+EfficientDet[EfficientDet：基于EfficientNet的Object Detection网络](https://www.bilibili.com/video/BV1zb4y167xB)
 
 
 ### Some Interesting Visual Application in the Video Game and Animation(Interest Work in my rest time)
