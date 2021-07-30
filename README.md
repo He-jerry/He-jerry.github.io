@@ -102,15 +102,35 @@ My unofficial implementation(Tensorflow):[https://github.com/He-jerry/F3Net-Tens
 ### Some famous Paper Presentation Video Subs Added by myself and my personal thinking
 
 
-EfficientDet  [paper](https://arxiv.org/abs/1911.09070)    [{英文字幕/个人见解}EfficientDet：基于EfficientNet的Object Detection网络](https://www.bilibili.com/video/BV1zb4y167xB)
+EfficientDet  
 
-Double-head RCNN   [paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wu_Rethinking_Classification_and_Localization_for_Object_Detection_CVPR_2020_paper.pdf)     [【英文字幕/个人见解】Rethinking Classification and Localization：把RCNN的Conv分类头换成FC头的构思](https://www.bilibili.com/video/BV1TL411p7Dr)
+[paper](https://arxiv.org/abs/1911.09070)    
 
-Learning From Noisy Anchors for One-Stage Object Detection      [paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Learning_From_Noisy_Anchors_for_One-Stage_Object_Detection_CVPR_2020_paper.pdf)           [【英文字幕/个人见解】Learning From Noisy Anchors for One-Stage Object Detection](https://www.bilibili.com/video/BV1Ff4y157RD)
+[{英文字幕/个人见解}EfficientDet：基于EfficientNet的Object Detection网络](https://www.bilibili.com/video/BV1zb4y167xB)
 
-ATSS  [paper](https://arxiv.org/abs/1912.02424)  [【英文字幕/个人见解】ATSS(Bridging the Gap Between Anchor-Based and Anchor-Free Detection)](https://www.bilibili.com/video/BV1T64y1x7nv/)
+Double-head RCNN   
 
-PISA  [paper](https://arxiv.org/abs/1904.04821)  [【英文字幕/个人见解】PISA：Prime Sample Attention in Object Detection](https://www.bilibili.com/video/BV1xM4y1T7du/)
+[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wu_Rethinking_Classification_and_Localization_for_Object_Detection_CVPR_2020_paper.pdf)     
+
+[【英文字幕/个人见解】Rethinking Classification and Localization：把RCNN的Conv分类头换成FC头的构思](https://www.bilibili.com/video/BV1TL411p7Dr)
+
+Learning From Noisy Anchors for One-Stage Object Detection      
+
+[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Learning_From_Noisy_Anchors_for_One-Stage_Object_Detection_CVPR_2020_paper.pdf)           
+
+[【英文字幕/个人见解】Learning From Noisy Anchors for One-Stage Object Detection](https://www.bilibili.com/video/BV1Ff4y157RD)
+
+ATSS  
+
+[paper](https://arxiv.org/abs/1912.02424)  
+
+[【英文字幕/个人见解】ATSS(Bridging the Gap Between Anchor-Based and Anchor-Free Detection)](https://www.bilibili.com/video/BV1T64y1x7nv/)
+
+PISA  
+
+[paper](https://arxiv.org/abs/1904.04821)  
+
+[【英文字幕/个人见解】PISA：Prime Sample Attention in Object Detection](https://www.bilibili.com/video/BV1xM4y1T7du/)
 
 
 ### Some Interesting Deep Learning Visual Application in the Video Game and Animation(Interest Work in my rest time)
