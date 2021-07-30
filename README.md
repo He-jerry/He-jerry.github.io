@@ -181,5 +181,5 @@ Character B     To         Character A
 
 [Result]()
 
-![image](https://github.com/He-jerry/Emotion_change/raw/main/original/8c4ecf43c895bc9ed23eea9274328ba6cf24481e.png)![image](https://github.com/He-jerry/Emotion_change/tree/main/line.gif)
+![image](https://github.com/He-jerry/Emotion_change/raw/main/original/8c4ecf43c895bc9ed23eea9274328ba6cf24481e.png)![image](https://github.com/He-jerry/Emotion_change/raw/main/line.gif)
 
