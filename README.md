@@ -97,7 +97,16 @@ official implementation(Pytorch):[https://github.com/weijun88/F3Net](https://git
 My unofficial implementation(Tensorflow):[https://github.com/He-jerry/F3Net-Tensorflow](https://github.com/He-jerry/F3Net-Tensorflow)
 
 
+### Some famous Paper Presentation Video Sub and my personal thinking
 
 
 
 
+
+### Some Interesting Visual Application in the Video Game and Animation(Interest Work in my rest time)
+
+
+**Object Detection when embedded in the Video Games**
+
+
+**Emotion changed from one of the Cartoon Character to another Cartoon Character with few data**
