@@ -162,12 +162,29 @@ PISA
 
 [Emotion small dataset]()
 
-Character A ![image](https://github.com/He-jerry/Emotion_change/blob/main/original/15d75510d01bdbe9fcf81f2aca9e8ac0413d387b.png)![image]()![image]()   Character B![image]()![image]()![image]()
+Character A 
+
+![image](https://github.com/He-jerry/Emotion_change/blob/main/original/15d75510d01bdbe9fcf81f2aca9e8ac0413d387b.png)
 
 to
 
-Character B ![image](https://github.com/He-jerry/Emotion_change/blob/main/teaser/15d75510d01bdbe9fcf81f2aca9e8ac0413d387b.png)![image]()![image]()   Character A![image]()![image]()![image]()
+Character B 
 
+![image](https://github.com/He-jerry/Emotion_change/blob/main/teaser/15d75510d01bdbe9fcf81f2aca9e8ac0413d387b.png)
+
+
+
+(Reverse)
+
+Character B 
+
+![image](https://github.com/He-jerry/Emotion_change/blob/main/fakeB/c0021906b6970e32491df6bd97af65a759d51289.png)
+
+to
+
+Character A
+
+![image](https://github.com/He-jerry/Emotion_change/blob/main/original/c0021906b6970e32491df6bd97af65a759d51289.png)
 
 **Sketch from the RGB emotion image**
 
