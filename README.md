@@ -105,9 +105,11 @@ My unofficial implementation(Tensorflow):[https://github.com/He-jerry/F3Net-Tens
 
 ### Some Interesting Visual Application in the Video Game and Animation(Interest Work in my rest time)
 
-The 
 
 **MikuMikuDance by Deep Learning Advanced version--From animation video to 3D model**
+[My Github Project Address](https://github.com/He-jerry/MikuMikuDance_Start-from-animation-video)
+
+
 
 **Object Detection when embedded in the Video Games**
 
