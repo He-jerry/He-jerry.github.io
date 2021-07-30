@@ -173,8 +173,8 @@ Character A     To         Character  B
 
 Character B     To         Character A
 
-![image](https://github.com/He-jerry/Emotion_change/blob/main/original/c0021906b6970e32491df6bd97af65a759d51289.png)
-![image](https://github.com/He-jerry/Emotion_change/blob/main/fakeB/c0021906b6970e32491df6bd97af65a759d51289.png)
+![image](https://github.com/He-jerry/Emotion_change/blob/main/original/8fd2b4174f94c1c9b7cf4cf132a54838db40ddff.png)
+![image](https://github.com/He-jerry/Emotion_change/blob/main/fakeB/8fd2b4174f94c1c9b7cf4cf132a54838db40ddff.png)
 
 
 **Sketch from the RGB emotion image**
