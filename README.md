@@ -7,7 +7,9 @@ In the stage of school, my research interests including salient object detection
 
 Recently my interests change to Object Detection and Segmentation in medical image analysis based on my work.
 
-Beyond, I have some interests in the interesting Visual Application of the video game and the Virtual character. I have also written an article in BiliBili about the possibility and difficulties when the visual application uses in the game scenes. The address of this article is [Currently None](). And some of the interesting applications will also be introduced in the later part.
+Beyond, I have some interests in the interesting Visual Application of the video game and the Virtual character. I have also written an article in BiliBili about the possibility and difficulties when the visual application uses in the game scenes. The address of this article is [Currently None](). And some of the interesting applications will also be introduced in the latter part.
+
+Domain Adaption is not my interest currently. However I find that the algorithms in the real-world perform badly in Game/Virtual Scenes, therefore, I will consider if the domain adaption methods can solve the problem of the domain gap.
 
 ### Publication Currently
 
