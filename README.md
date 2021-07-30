@@ -97,7 +97,7 @@ official implementation(Pytorch):[https://github.com/weijun88/F3Net](https://git
 My unofficial implementation(Tensorflow):[https://github.com/He-jerry/F3Net-Tensorflow](https://github.com/He-jerry/F3Net-Tensorflow)
 
 
-### Some famous Paper Presentation Video Sub and my personal thinking
+### Some famous Paper Presentation Video Subs Added by myself and my personal thinking
 
 
 
@@ -105,8 +105,14 @@ My unofficial implementation(Tensorflow):[https://github.com/He-jerry/F3Net-Tens
 
 ### Some Interesting Visual Application in the Video Game and Animation(Interest Work in my rest time)
 
+The 
+
+**MikuMikuDance by Deep Learning Advanced version--From animation video to 3D model**
 
 **Object Detection when embedded in the Video Games**
 
 
 **Emotion changed from one of the Cartoon Character to another Cartoon Character with few data**
+
+
+**Sketch from the RGB emotion image**
