@@ -1,8 +1,9 @@
 ## Jerry He(何泽邦)'s homepage
 
-I receive my Bsc scholar from CSU(Central South University) and Msc scholar from City University of Hong Kong.
+I receive my Bsc scholar from CSU(Central South University) and Msc scholar from City University of Hong Kong. Currently I am the intern of the ASTRI Medical Image Analysis.
 
-In the former stage, my research interests including salient object detection, image layer separation. 
+
+In the stage of school, my research interests including salient object detection, image layer separation. 
 
 Recently my interests change to Object Detection and Segmentation in medical image analysis.
 
