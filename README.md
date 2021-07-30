@@ -70,7 +70,7 @@ My implementation: [https://github.com/He-jerry/ST-CGAN](https://github.com/He-j
 
 
 
-**Platform Transfer Implementation:**
+**Platform Transfer Implementation for medical image segmentation and salient object detection:**
 
 **CENet: Context encoder network for 2D medical image segmentation,Zaiwang Gu, Jun Cheng, Huazhu Fu, Kang Zhou, Huaying Hao, Yitian Zhao, Tianyang Zhang, Shenghua Gao, Jiang Liu**
 
