@@ -172,6 +172,7 @@ Character A     To         Character  B
 (Reverse)
 
 Character B     To         Character A
+
 ![image](https://github.com/He-jerry/Emotion_change/blob/main/original/c0021906b6970e32491df6bd97af65a759d51289.png)
 ![image](https://github.com/He-jerry/Emotion_change/blob/main/fakeB/c0021906b6970e32491df6bd97af65a759d51289.png)
 
