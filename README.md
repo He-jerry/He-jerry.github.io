@@ -1,4 +1,4 @@
-## Jerry He(何泽邦)'s homepage
+## Jerry He(ZeBang，He)'s homepage
 
 I receive my BSc Degree from the Computer Department, CSU(Central South University), and MSc Degree from the Computer Engineering Department, City University of Hong Kong. Currently, I am the intern of the ASTRI, and my major direction is Medical Image Analysis.
 
