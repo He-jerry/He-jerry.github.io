@@ -70,18 +70,6 @@ My implementation: [https://github.com/He-jerry/ST-CGAN](https://github.com/He-j
 
 [https://github.com/He-jerry/DSSNet](https://github.com/He-jerry/DSSNet)
 
-
-
-**Platform Transfer Implementation for medical image segmentation and salient object detection:**
-
-**CENet: Context encoder network for 2D medical image segmentation,Zaiwang Gu, Jun Cheng, Huazhu Fu, Kang Zhou, Huaying Hao, Yitian Zhao, Tianyang Zhang, Shenghua Gao, Jiang Liu**
-
-[https://arxiv.org/abs/1903.02740](https://arxiv.org/abs/1903.02740)
-
-Reference implementation(Pytorch): [https://github.com/Guzaiwang/CE-Net](https://github.com/Guzaiwang/CE-Net)
-
-My implementation(Tensorflow):[https://github.com/He-jerry/CENet-Tensorflow](https://github.com/He-jerry/CENet-Tensorflow)
-
 **U2-Net: Going Deeper with Nested U-Structure for Salient Object Detection,Xuebin Qin, Zichen Zhang, Chenyang Huang, Masood Dehghan, Osmar R. Zaiane and Martin Jagersand**
 
 [https://arxiv.org/pdf/2005.09007.pdf](https://arxiv.org/pdf/2005.09007.pdf)
